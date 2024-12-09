@@ -305,3 +305,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [09Dec2024 16:36:11.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Diamonds!]
 [09Dec2024 16:36:44.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [To beer or not to beer]
 [09Dec2024 16:37:41.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [Close Quarters]
+[09Dec2024 16:47:53.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Purple... Interesting]
+[09Dec2024 16:48:05.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 lost connection: Disconnected
+[09Dec2024 16:48:05.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 left the game
+[09Dec2024 16:48:12.809] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@321fe8f5
+[09Dec2024 16:48:12.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: back2027[/127.226.197.186:34413] logged in with entity id 21697 at (-332.9276091890395, 65.5, -217.30340121743708)
+[09Dec2024 16:48:12.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 joined the game
+[09Dec2024 16:48:12.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [Mysterious Gift]

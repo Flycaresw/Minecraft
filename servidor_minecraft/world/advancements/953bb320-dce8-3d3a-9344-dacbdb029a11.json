@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-09 16:43:07 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-09 15:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-09 16:43:07 +0000"
     },
     "done": true
   },
@@ -47,15 +47,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-09 16:43:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-09 16:43:07 +0000"
     },
     "done": true
   },
@@ -143,27 +143,27 @@
     },
     "done": true
   },
-  "simplyswords:runic_weapon": {
-    "criteria": {
-      "requirement": "2024-12-09 16:36:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-09 16:36:20 +0000"
     },
     "done": true
   },
-  "alcocraft:mug": {
+  "simplyswords:runic_weapon": {
     "criteria": {
-      "requirement": "2024-12-09 16:36:44 +0000"
+      "requirement": "2024-12-09 16:36:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:10:15 +0000"
+    },
+    "done": true
+  },
+  "alcocraft:mug": {
+    "criteria": {
+      "requirement": "2024-12-09 16:36:44 +0000"
     },
     "done": true
   },
@@ -471,6 +471,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-09 17:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-09 15:39:00 +0000"
@@ -561,6 +567,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 16:48:12 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-09 15:39:13 +0000",
@@ -619,20 +631,22 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-09 16:26:33 +0000",
+      "minecraft:skeleton": "2024-12-09 17:11:51 +0000",
       "minecraft:vindicator": "2024-12-09 16:25:31 +0000",
+      "minecraft:silverfish": "2024-12-09 17:14:08 +0000",
       "minecraft:zombie": "2024-12-09 16:11:30 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-09 16:36:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-09 16:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 16:36:20 +0000"
     },
     "done": true
   },
@@ -702,15 +716,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-09 16:25:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-09 16:22:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 16:25:31 +0000"
     },
     "done": true
   },
@@ -735,6 +749,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-09 15:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-09 17:13:15 +0000"
     },
     "done": true
   },
@@ -807,6 +827,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 16:43:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 17:15:41 +0000"
     },
     "done": true
   },
@@ -1104,15 +1130,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-09 16:18:15 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 15:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 16:18:15 +0000"
     },
     "done": true
   },
@@ -1228,6 +1254,7 @@
       "minecraft:forest": "2024-12-09 16:34:07 +0000",
       "minecraft:jungle": "2024-12-09 15:41:10 +0000",
       "minecraft:ocean": "2024-12-09 15:57:20 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-09 17:00:29 +0000",
       "minecraft:savanna": "2024-12-09 15:46:58 +0000",
       "minecraft:plains": "2024-12-09 16:16:55 +0000"
     },
@@ -1281,21 +1308,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-09 17:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-09 16:22:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-09 16:22:46 +0000"
     },
     "done": true
   },
@@ -1356,6 +1389,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-09 17:13:15 +0000"
     },
     "done": true
   },

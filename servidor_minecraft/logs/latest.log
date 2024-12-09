@@ -395,3 +395,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [09Dec2024 17:19:45.387] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3ad2f34e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
 [09Dec2024 17:20:10.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 45.500000, 71.500000, -574.500000]
 [09Dec2024 17:24:29.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Barrel Booty]
+[09Dec2024 17:35:35.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [Penteconter]
+[09Dec2024 17:38:48.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[09Dec2024 17:38:48.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 7.5869193467552805,0.0,-6.903767450218538
+[09Dec2024 17:38:51.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 6.306769759292706,0.0,-7.828305150606809
+[09Dec2024 17:39:15.568] [Worker-Main-15/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureManager/]: Couldn't load structure terralith:spire: java.lang.OutOfMemoryError: Java heap space
+[09Dec2024 17:39:15.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 6.570126508006354,0.0,-8.326281454561666
+[09Dec2024 17:39:16.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw was kicked for floating too long!
+[09Dec2024 17:39:16.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Flying is not enabled on this server
+[09Dec2024 17:39:16.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[09Dec2024 17:39:17.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13666ms or 273 ticks behind
+[09Dec2024 17:39:25.951] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15fcc91c
+[09Dec2024 17:39:25.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.36.224.157:42753] logged in with entity id 33447 at (48.45052353674601, 68.76770397306966, -566.4038344781573)
+[09Dec2024 17:39:25.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[09Dec2024 17:39:25.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Mysterious Gift]
+[09Dec2024 17:39:26.004] [Netty Epoll Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2b2c1feb (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[09Dec2024 17:39:26.006] [Netty Epoll Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3ad2f34e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[09Dec2024 17:39:26.554] [Worker-Main-20/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Dec2024 17:39:26.838] [Worker-Main-20/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Dec2024 17:39:28.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 6.966522880253137,5.887557361426133,-4.633295072865394
+[09Dec2024 17:42:36.625] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 17:42:36.833] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 17:42:36.834] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 17:42:37.375] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 17:42:37.684] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 17:42:38.114] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 17:43:38.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [Where Is The Stone Pen?]
+[09Dec2024 17:49:57.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has reached the goal [Bone Crusher]
+[09Dec2024 17:55:49.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 lost connection: Disconnected
+[09Dec2024 17:55:49.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 left the game

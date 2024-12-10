@@ -335,6 +335,7 @@
       "baked_potato": "2024-12-09 15:40:21 +0000",
       "apple": "2024-12-09 15:33:09 +0000",
       "bread": "2024-12-09 16:08:24 +0000",
+      "cookie": "2024-12-10 15:38:35 +0000",
       "cod": "2024-12-09 16:03:35 +0000"
     },
     "done": false
@@ -549,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-10 15:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-09 16:36:11 +0000"
@@ -624,6 +631,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-09 18:21:50 +0000"
     },
     "done": true
   },

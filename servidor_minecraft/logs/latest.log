@@ -430,3 +430,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 15:57:50.103] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@531a642b
 [10Dec2024 15:57:50.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: back2027[/127.89.101.46:58013] logged in with entity id 5075 at (417.69999998807907, 70.0, -5.300000011920929)
 [10Dec2024 15:57:50.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 joined the game
+[10Dec2024 16:11:33.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [Stone Age]
+[10Dec2024 16:16:51.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Stinger
+[10Dec2024 16:16:51.194] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved

@@ -1575,3 +1575,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 17:31:19.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
 [10Dec2024 17:31:20.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
 [10Dec2024 17:33:54.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[10Dec2024 17:37:00.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[10Dec2024 17:38:21.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]

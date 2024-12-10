@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:22 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-09 15:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-10 17:41:07 +0000"
     },
     "done": true
   },
@@ -417,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 15:37:52 +0000"
@@ -507,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-10 17:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-09 15:36:20 +0000"
@@ -525,6 +549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:10:15 +0000"
@@ -540,6 +570,12 @@
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-12-09 16:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },
@@ -588,6 +624,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-09 15:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-10 17:35:29 +0000"
     },
     "done": true
   },
@@ -729,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-09 15:53:00 +0000"
@@ -766,6 +814,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 16:43:07 +0000"
@@ -787,6 +841,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-10 16:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },
@@ -831,6 +891,8 @@
       "minecraft:pillager": "2024-12-09 16:26:33 +0000",
       "minecraft:skeleton": "2024-12-09 17:11:51 +0000",
       "minecraft:vindicator": "2024-12-09 16:25:31 +0000",
+      "minecraft:creeper": "2024-12-10 17:41:42 +0000",
+      "minecraft:witch": "2024-12-10 17:41:07 +0000",
       "minecraft:silverfish": "2024-12-09 17:14:08 +0000",
       "minecraft:zombie": "2024-12-09 16:11:30 +0000"
     },
@@ -845,6 +907,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 16:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },
@@ -875,6 +943,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-10 16:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },
@@ -989,6 +1063,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-09 17:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },
@@ -1532,6 +1612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2024-12-09 16:18:40 +0000"
@@ -1668,6 +1754,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },
@@ -1809,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-09 15:35:16 +0000"
@@ -1881,6 +1979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 15:36:20 +0000"
@@ -1926,6 +2030,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-09 17:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 17:34:42 +0000"
     },
     "done": true
   },

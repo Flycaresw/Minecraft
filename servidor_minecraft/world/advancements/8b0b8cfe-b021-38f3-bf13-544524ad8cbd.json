@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 17:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-09 15:39:37 +0000"
@@ -368,6 +374,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-09 16:43:24 +0000",
+      "cooked_mutton": "2024-12-10 17:43:35 +0000",
       "cooked_beef": "2024-12-10 16:39:06 +0000",
       "baked_potato": "2024-12-09 15:40:21 +0000",
       "apple": "2024-12-09 15:33:09 +0000",
@@ -764,6 +771,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 15:26:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-10 17:40:03 +0000"
     },
     "done": true
   },
@@ -1293,6 +1306,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-10 17:40:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 15:36:59 +0000"
@@ -1536,6 +1555,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-09 16:12:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-10 17:40:03 +0000"
     },
     "done": true
   },

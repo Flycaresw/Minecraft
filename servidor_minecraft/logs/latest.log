@@ -410,3 +410,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 16:54:38.032] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
 [11Dec2024 16:54:38.032] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
 [11Dec2024 16:55:20.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:00:11.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 17:01:58.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:06:05.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 fell from a high place
+[11Dec2024 17:06:05.475] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved

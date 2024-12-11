@@ -437,3 +437,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 17:17:46.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has reached the goal [Easy Opening]
 [11Dec2024 17:17:56.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 fell from a high place
 [11Dec2024 17:17:56.876] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:27:00.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Black or White]
+[11Dec2024 17:27:04.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has reached the goal [A Small Cemetery]
+[11Dec2024 17:27:30.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 17:27:53.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:27:59.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Deliverance]
+[11Dec2024 17:27:59.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Surge Protector]
+[11Dec2024 17:28:02.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Magic Recycling]
+[11Dec2024 17:28:02.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Let The Magic Happen]
+[11Dec2024 17:28:28.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]

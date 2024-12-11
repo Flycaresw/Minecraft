@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2024-12-11 02:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 01:58:26 +0000"
@@ -892,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-11 02:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-09 17:51:41 +0000"
@@ -1260,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-11 02:40:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2024-12-09 15:41:57 +0000"
@@ -1395,6 +1413,19 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-11 02:40:26 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:isleofberk": {
+    "criteria": {
+      "monstrous_nightmare": "2024-12-11 02:52:45 +0000",
+      "terrible_terror": "2024-12-11 02:52:45 +0000"
     },
     "done": true
   },
@@ -1941,9 +1972,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-11 02:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-09 16:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-11 02:40:26 +0000"
     },
     "done": true
   },
@@ -2148,6 +2191,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-09 17:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-11 02:40:51 +0000"
     },
     "done": true
   },
@@ -2493,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-11 02:41:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-09 16:56:57 +0000"
@@ -2562,6 +2617,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-09 17:03:05 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:stoker": {
+    "criteria": {
+      "terrible_terror": "2024-12-11 02:52:45 +0000"
     },
     "done": true
   },

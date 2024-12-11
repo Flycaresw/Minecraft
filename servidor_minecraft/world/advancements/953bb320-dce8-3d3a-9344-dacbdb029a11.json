@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-11 02:41:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 15:40:12 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-11 02:48:45 +0000"
     },
     "done": true
   },
@@ -499,6 +511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-11 02:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-10 17:34:42 +0000"
@@ -562,6 +580,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-09 15:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-11 02:45:52 +0000"
     },
     "done": true
   },
@@ -784,6 +808,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-09 16:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-11 02:48:45 +0000"
     },
     "done": true
   },
@@ -1119,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-11 02:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:10:15 +0000"
@@ -1218,6 +1254,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-11 02:48:45 +0000"
     },
     "done": true
   },
@@ -1323,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-11 02:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-09 15:39:21 +0000"
@@ -1388,6 +1436,7 @@
       "cooked_porkchop": "2024-12-10 16:12:44 +0000",
       "cooked_mutton": "2024-12-10 16:18:13 +0000",
       "baked_potato": "2024-12-09 15:50:56 +0000",
+      "beef": "2024-12-11 02:44:21 +0000",
       "tropical_fish": "2024-12-09 15:53:29 +0000",
       "apple": "2024-12-09 16:27:13 +0000",
       "cooked_cod": "2024-12-09 17:29:50 +0000",
@@ -1396,7 +1445,8 @@
       "rotten_flesh": "2024-12-11 01:00:00 +0000",
       "melon_slice": "2024-12-09 15:43:11 +0000",
       "beetroot": "2024-12-09 17:45:34 +0000",
-      "mushroom_stew": "2024-12-09 17:54:20 +0000"
+      "mushroom_stew": "2024-12-09 17:54:20 +0000",
+      "cod": "2024-12-11 02:56:45 +0000"
     },
     "done": false
   },
@@ -1415,6 +1465,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-11 02:45:52 +0000"
     },
     "done": true
   },
@@ -1991,6 +2047,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-10 16:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-11 02:41:53 +0000"
     },
     "done": true
   },

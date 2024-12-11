@@ -1502,3 +1502,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 01:45:22.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.5563498864648864
 [11Dec2024 01:45:22.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.564835655405659
 [11Dec2024 01:45:23.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8809880142719919
+[11Dec2024 02:15:06.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Enchanter]

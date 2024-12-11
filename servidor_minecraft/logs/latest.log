@@ -414,3 +414,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 17:01:58.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
 [11Dec2024 17:06:05.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 fell from a high place
 [11Dec2024 17:06:05.475] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:10:33.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 17:10:35.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:11:53.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has completed the challenge [Village Defender]
+[11Dec2024 17:15:01.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 17:15:01.322] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:15:06.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw was slain by Vindicator
+[11Dec2024 17:15:06.370] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[11Dec2024 17:15:08.449] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@377f9131 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:15:08.450] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@11e4650c (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:15:25.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 17:15:33.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 17:15:33.575] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:16:06.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 17:16:06.424] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:17:31.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:17:36.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw fell from a high place
+[11Dec2024 17:17:36.281] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[11Dec2024 17:17:38.697] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@377f9131 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:17:38.697] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@11e4650c (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:17:42.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to -683.500000, -59.500000, -304.500000]
+[11Dec2024 17:17:46.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has reached the goal [Easy Opening]
+[11Dec2024 17:17:56.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 fell from a high place
+[11Dec2024 17:17:56.876] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved

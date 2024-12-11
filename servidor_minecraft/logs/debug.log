@@ -5798,3 +5798,112 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 17:06:05.475] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
 [11Dec2024 17:07:14.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 17:07:14.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:10:33.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 17:10:35.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:11:53.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has completed the challenge [Village Defender]
+[11Dec2024 17:12:14.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:12:14.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:15:01.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 17:15:01.320] [Server thread/DEBUG] [tombstone/]: A new grave of the player back2027 was created at position [x:-688, y:-60, z:-305, dim:minecraft:overworld]
+[11Dec2024 17:15:01.322] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:15:06.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw was slain by Vindicator
+[11Dec2024 17:15:06.368] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:-682, y:-60, z:-307, dim:minecraft:overworld]
+[11Dec2024 17:15:06.370] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[11Dec2024 17:15:08.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/baby
+[11Dec2024 17:15:08.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/unemployed
+[11Dec2024 17:15:08.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[11Dec2024 17:15:08.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/sparse_jungle_tiki_torch_1
+[11Dec2024 17:15:08.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/villagers/nitwit
+[11Dec2024 17:15:08.449] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@377f9131 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:15:08.450] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@11e4650c (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:15:09.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[11Dec2024 17:15:09.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[11Dec2024 17:15:09.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[11Dec2024 17:15:09.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[11Dec2024 17:15:09.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[11Dec2024 17:15:09.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[11Dec2024 17:15:09.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[11Dec2024 17:15:09.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[11Dec2024 17:15:09.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[11Dec2024 17:15:09.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[11Dec2024 17:15:09.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[11Dec2024 17:15:09.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[11Dec2024 17:15:09.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[11Dec2024 17:15:09.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[11Dec2024 17:15:09.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[11Dec2024 17:15:09.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[11Dec2024 17:15:09.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[11Dec2024 17:15:09.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[11Dec2024 17:15:09.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[11Dec2024 17:15:09.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[11Dec2024 17:15:09.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[11Dec2024 17:15:09.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[11Dec2024 17:15:09.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[11Dec2024 17:15:09.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[11Dec2024 17:15:09.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[11Dec2024 17:15:09.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_2
+[11Dec2024 17:15:09.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[11Dec2024 17:15:09.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[11Dec2024 17:15:09.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[11Dec2024 17:15:09.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[11Dec2024 17:15:09.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[11Dec2024 17:15:09.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[11Dec2024 17:15:09.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[11Dec2024 17:15:09.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[11Dec2024 17:15:09.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[11Dec2024 17:15:09.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[11Dec2024 17:15:09.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[11Dec2024 17:15:09.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[11Dec2024 17:15:09.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[11Dec2024 17:15:09.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[11Dec2024 17:15:09.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[11Dec2024 17:15:09.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[11Dec2024 17:15:09.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[11Dec2024 17:15:09.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[11Dec2024 17:15:09.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[11Dec2024 17:15:09.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[11Dec2024 17:15:09.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[11Dec2024 17:15:09.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[11Dec2024 17:15:09.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[11Dec2024 17:15:09.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[11Dec2024 17:15:09.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[11Dec2024 17:15:09.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[11Dec2024 17:15:09.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_closed
+[11Dec2024 17:15:09.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_0
+[11Dec2024 17:15:09.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_0
+[11Dec2024 17:15:09.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[11Dec2024 17:15:09.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[11Dec2024 17:15:11.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[11Dec2024 17:15:11.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[11Dec2024 17:15:11.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[11Dec2024 17:15:25.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 17:15:33.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 17:15:33.569] [Server thread/DEBUG] [tombstone/]: A new grave of the player back2027 was created at position [x:-690, y:-60, z:-305, dim:minecraft:overworld]
+[11Dec2024 17:15:33.575] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:15:48.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[11Dec2024 17:16:06.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 17:16:06.422] [Server thread/DEBUG] [tombstone/]: A new grave of the player back2027 was created at position [x:-689, y:-60, z:-307, dim:minecraft:overworld]
+[11Dec2024 17:16:06.424] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:17:06.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[11Dec2024 17:17:06.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[11Dec2024 17:17:14.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:17:14.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:17:31.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 17:17:36.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw fell from a high place
+[11Dec2024 17:17:36.281] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[11Dec2024 17:17:38.697] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@377f9131 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:17:38.697] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@11e4650c (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:17:42.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to -683.500000, -59.500000, -304.500000]
+[11Dec2024 17:17:46.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has reached the goal [Easy Opening]
+[11Dec2024 17:17:56.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 fell from a high place
+[11Dec2024 17:17:56.873] [Server thread/DEBUG] [tombstone/]: A new grave of the player back2027 was created at position [x:-684, y:-60, z:-305, dim:minecraft:overworld]
+[11Dec2024 17:17:56.876] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 17:17:59.704] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 95
+[11Dec2024 17:17:59.705] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=81, e=107}}
+[11Dec2024 17:17:59.705] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=81, e=107}
+[11Dec2024 17:18:00.240] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 115
+[11Dec2024 17:18:00.240] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=81, e=107}}
+[11Dec2024 17:18:00.240] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=108, e=116}
+[11Dec2024 17:18:00.322] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 115
+[11Dec2024 17:18:00.322] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=81, e=107}}
+[11Dec2024 17:18:00.322] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4aa063e5, b=108, e=116}

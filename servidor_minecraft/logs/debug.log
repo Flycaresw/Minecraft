@@ -6706,3 +6706,469 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 01:26:05.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
 [11Dec2024 01:26:05.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [11Dec2024 01:26:05.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[11Dec2024 01:26:33.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:26:33.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:27:16.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[11Dec2024 01:27:16.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[11Dec2024 01:27:16.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[11Dec2024 01:27:16.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[11Dec2024 01:27:16.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[11Dec2024 01:27:16.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[11Dec2024 01:27:16.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[11Dec2024 01:27:16.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[11Dec2024 01:27:16.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[11Dec2024 01:27:16.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[11Dec2024 01:27:16.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[11Dec2024 01:27:21.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.26563720122430823
+[11Dec2024 01:27:21.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0626967096683302
+[11Dec2024 01:27:21.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8830665557117072
+[11Dec2024 01:27:21.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.7159092986464657
+[11Dec2024 01:27:21.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.555426040025054
+[11Dec2024 01:27:21.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 4.044022631252119
+[11Dec2024 01:27:23.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.38351364371477303
+[11Dec2024 01:27:23.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.4146620390343623
+[11Dec2024 01:27:23.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.530324824725329
+[11Dec2024 01:27:23.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.6676087900638823
+[11Dec2024 01:27:23.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.860002508411022
+[11Dec2024 01:27:23.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.9944676923483071
+[11Dec2024 01:27:23.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.145672596613903
+[11Dec2024 01:27:23.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8680686419353908
+[11Dec2024 01:27:23.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.007261746896251
+[11Dec2024 01:27:23.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.160918594614395
+[11Dec2024 01:27:23.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8693049162648031
+[11Dec2024 01:27:24.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.00922188945953
+[11Dec2024 01:27:24.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.1632543059092173
+[11Dec2024 01:27:24.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.869494325179643
+[11Dec2024 01:27:24.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0095221840343322
+[11Dec2024 01:27:24.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.1636121357317313
+[11Dec2024 01:27:24.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8695233427600861
+[11Dec2024 01:27:24.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0095681889598316
+[11Dec2024 01:27:24.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.163666954970754
+[11Dec2024 01:27:24.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8695277882352583
+[11Dec2024 01:27:24.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.009575236875847
+[11Dec2024 01:27:24.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8695283622228831
+[11Dec2024 01:27:24.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0095761468832958
+[11Dec2024 01:27:24.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.1636764375912696
+[11Dec2024 01:27:24.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8695285572128036
+[11Dec2024 01:27:24.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0095764560229425
+[11Dec2024 01:27:24.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.1636768059604585
+[11Dec2024 01:27:24.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8695285870850037
+[11Dec2024 01:27:24.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0095765033827293
+[11Dec2024 01:27:24.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.1636768623941363
+[11Dec2024 01:27:27.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.34049437863842513
+[11Dec2024 01:27:27.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9770516945654322
+[11Dec2024 01:27:27.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6410459442753336
+[11Dec2024 01:27:27.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.3197211502189816
+[11Dec2024 01:27:27.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.2892630628293773
+[11Dec2024 01:27:27.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.2892630628293773
+[11Dec2024 01:27:27.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.338895104530593
+[11Dec2024 01:27:27.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.3854878264353374
+[11Dec2024 01:27:27.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.2892630628293773
+[11Dec2024 01:27:27.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.2892630628293773
+[11Dec2024 01:27:27.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.3342295053084854
+[11Dec2024 01:27:27.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.3783257580914778
+[11Dec2024 01:27:27.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.42195638971770677
+[11Dec2024 01:29:39.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9990809580565383
+[11Dec2024 01:29:39.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1101004098127305
+[11Dec2024 01:29:39.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2221704080893687
+[11Dec2024 01:29:39.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.3348025328634776
+[11Dec2024 01:29:39.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.4477354403188656
+[11Dec2024 01:29:39.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 4.560829290589936
+[11Dec2024 01:29:40.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2512814702581636
+[11Dec2024 01:29:48.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.46939515566350565
+[11Dec2024 01:29:48.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3398611502507265
+[11Dec2024 01:29:48.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.1326582341278026
+[11Dec2024 01:29:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.9486098966183674
+[11Dec2024 01:29:48.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.938875176419579
+[11Dec2024 01:29:48.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 4.511016967732516
+[11Dec2024 01:29:53.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7899555322566698
+[11Dec2024 01:29:53.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3509560489666228
+[11Dec2024 01:29:53.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6511362403144858
+[11Dec2024 01:29:53.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8117566757574082
+[11Dec2024 01:30:35.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6006035185166887
+[11Dec2024 01:30:38.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8167057842530312
+[11Dec2024 01:30:38.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8474456195883704
+[11Dec2024 01:30:38.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.8824721464967524
+[11Dec2024 01:30:38.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.9197923965984955
+[11Dec2024 01:30:38.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6140285373877248
+[11Dec2024 01:30:38.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1260648810578004
+[11Dec2024 01:31:33.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:31:33.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:34:46.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2899117970271732
+[11Dec2024 01:34:46.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8168586630436039
+[11Dec2024 01:34:46.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.3604330919105223
+[11Dec2024 01:34:46.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.9129045981408979
+[11Dec2024 01:34:46.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4714008664686844
+[11Dec2024 01:34:46.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.045345312806063
+[11Dec2024 01:34:46.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.29767287813025556
+[11Dec2024 01:34:46.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.412222179585592
+[11Dec2024 01:34:46.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.26678476999223394
+[11Dec2024 01:34:46.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.414913852567492
+[11Dec2024 01:35:15.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.28822155879424827
+[11Dec2024 01:35:15.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.290696010137367
+[11Dec2024 01:35:15.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.342514478109024
+[11Dec2024 01:35:16.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.4299503595274246
+[11Dec2024 01:35:54.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.42537347720804064
+[11Dec2024 01:35:54.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.4571563349031749
+[11Dec2024 01:35:54.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.504665505555977
+[11Dec2024 01:35:55.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.5605895127234817
+[11Dec2024 01:35:55.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 4.62101613113623
+[11Dec2024 01:35:55.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 5.683852007053929
+[11Dec2024 01:35:55.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8941033549995154
+[11Dec2024 01:35:55.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.9589181727101277
+[11Dec2024 01:35:55.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8984391594653971
+[11Dec2024 01:35:55.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9122406208416578
+[11Dec2024 01:35:55.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0135250274333885
+[11Dec2024 01:35:55.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.1256848803175217
+[11Dec2024 01:35:55.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.947957420788498
+[11Dec2024 01:36:11.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 was kicked for floating a vehicle too long!
+[11Dec2024 01:36:11.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 lost connection: Flying is not enabled on this server
+[11Dec2024 01:36:11.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 left the game
+[11Dec2024 01:36:11.975] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 01:36:17.046] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[11Dec2024 01:36:17.085] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[11Dec2024 01:36:17.135] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[11Dec2024 01:36:17.182] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[11Dec2024 01:36:17.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[11Dec2024 01:36:17.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [saturn, kiwi, inventorysorter, bhmenu, betterdungeons, notenoughcrashes, playeranimator, jei, isleofberk, torohealth, paxi, sophisticatedcore, rubidium, waystones, fallingleaves, xaeroworldmap, shutupexperimentalsettings, prism, placebo, modernfix, configured, yungsapi, alcocraft, mixinextras, myserveriscompatible, sophisticatedbackpacks, snowundertrees, lootbeams, guardvillagers, lazydfu, starlight, catalogue, balm, snowrealmagic, terralith, ichunutil, immersive_armors, carryon, melody, skinlayers3d, cloth_config, tlskincape, konkrete, dsurround, sndctrl, environs, mobeffects, dungeons_arise, farmersdelight, itshallnottick, bettercombat, reblured, caffeineconfig, do_a_barrel_roll, dogslie, smoothboot, reeses_sodium_options, iceberg, curios, patchouli, legendarytooltips, xaerominimap, oculus, sodiumextra, yungsextras, canary, tombstone, fancymenu, eatinganimation, forge, minecraft, architectury, simplyswords, lootr, ferritecore, justzoom, fallingtree, t_and_t, geckolib3, cristellib]
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'inventorysorter:net' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.17.2.15' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'isleofberk:control' : Version test of '0.1.0' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.317] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:handshake' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-7.7.6' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'itshallnottick:main' : Version test of '1' from client : ACCEPTED
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Dec2024 01:36:17.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[11Dec2024 01:36:17.334] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[11Dec2024 01:36:17.366] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[11Dec2024 01:36:17.367] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.367] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.383] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[11Dec2024 01:36:17.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[11Dec2024 01:36:17.483] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[11Dec2024 01:36:17.532] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 9
+[11Dec2024 01:36:17.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 10
+[11Dec2024 01:36:17.630] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 11
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.639] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.682] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.733] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 13
+[11Dec2024 01:36:17.775] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[11Dec2024 01:36:17.775] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.775] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.775] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[11Dec2024 01:36:17.775] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.775] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.776] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[11Dec2024 01:36:17.776] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.776] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[11Dec2024 01:36:17.832] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 15
+[11Dec2024 01:36:17.884] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 16
+[11Dec2024 01:36:17.905] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[11Dec2024 01:36:17.905] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.905] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.905] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[11Dec2024 01:36:17.905] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.905] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.932] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[11Dec2024 01:36:17.964] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[11Dec2024 01:36:17.964] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:17.964] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:17.984] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 18
+[11Dec2024 01:36:18.032] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 19
+[11Dec2024 01:36:18.037] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[11Dec2024 01:36:18.037] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.037] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.037] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[11Dec2024 01:36:18.037] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.037] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.083] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 20
+[11Dec2024 01:36:18.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[11Dec2024 01:36:18.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 21
+[11Dec2024 01:36:18.183] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 22
+[11Dec2024 01:36:18.209] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[11Dec2024 01:36:18.209] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.209] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.209] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[11Dec2024 01:36:18.209] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.209] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config inventorysorter-server.toml' to 'fml:handshake' sequence 23
+[11Dec2024 01:36:18.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[11Dec2024 01:36:18.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 24
+[11Dec2024 01:36:18.322] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[11Dec2024 01:36:18.322] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.322] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.332] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 25
+[11Dec2024 01:36:18.343] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[11Dec2024 01:36:18.343] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.343] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.463] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[11Dec2024 01:36:18.463] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.463] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.464] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[11Dec2024 01:36:18.464] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.464] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.472] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[11Dec2024 01:36:18.472] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Dec2024 01:36:18.472] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Dec2024 01:36:18.482] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[11Dec2024 01:36:18.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a47d5d0
+[11Dec2024 01:36:18.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: back2027[/127.89.101.46:37645] logged in with entity id 29701 at (-1058.0542618059471, 72.35828570543757, -323.1202675636108)
+[11Dec2024 01:36:18.543] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@40cf299b into net.minecraft.network.Connection@35fb98f5
+[11Dec2024 01:36:18.544] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 103 classes
+[11Dec2024 01:36:18.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 joined the game
+[11Dec2024 01:36:19.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[11Dec2024 01:36:19.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[11Dec2024 01:36:28.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5595737041304574
+[11Dec2024 01:36:28.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6063001648373074
+[11Dec2024 01:36:28.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.684877468130332
+[11Dec2024 01:36:28.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.064912929974298
+[11Dec2024 01:36:28.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.1884296112466473
+[11Dec2024 01:36:28.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.3269765442453263
+[11Dec2024 01:36:28.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 4.475174678819175
+[11Dec2024 01:36:28.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1147419778018275
+[11Dec2024 01:36:28.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.268138184573445
+[11Dec2024 01:36:28.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.422783379724592
+[11Dec2024 01:36:28.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1189934833680582
+[11Dec2024 01:36:28.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.274664586002359
+[11Dec2024 01:36:28.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.4305270325730817
+[11Dec2024 01:36:28.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1196448103332841
+[11Dec2024 01:36:28.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2756644250405316
+[11Dec2024 01:36:28.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197289078695576
+[11Dec2024 01:36:28.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.275793521491778
+[11Dec2024 01:36:28.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.4318665279463403
+[11Dec2024 01:36:29.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197574767290916
+[11Dec2024 01:36:29.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2758373769784157
+[11Dec2024 01:36:29.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.431918563002341
+[11Dec2024 01:36:29.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197618534534968
+[11Dec2024 01:36:29.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.27584409560086
+[11Dec2024 01:36:29.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197624185640507
+[11Dec2024 01:36:29.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.275844963090776
+[11Dec2024 01:36:29.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.4319275640148135
+[11Dec2024 01:36:29.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197626105383733
+[11Dec2024 01:36:29.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2758452577867274
+[11Dec2024 01:36:29.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.431927913675054
+[11Dec2024 01:36:29.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197626399487035
+[11Dec2024 01:36:29.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2758453029339307
+[11Dec2024 01:36:29.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1197626437460713
+[11Dec2024 01:36:29.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2758453087632233
+[11Dec2024 01:36:33.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:36:33.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:38:46.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.32288123906118926
+[11Dec2024 01:38:46.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0567504522680338
+[11Dec2024 01:38:47.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.7906076813719665
+[11Dec2024 01:38:47.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.524458498021204
+[11Dec2024 01:38:47.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.25830588349367645
+[11Dec2024 01:38:47.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9921514330119408
+[11Dec2024 01:38:47.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7525691912148886
+[11Dec2024 01:38:48.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8301680242218481
+[11Dec2024 01:38:48.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8669976831074564
+[11Dec2024 01:38:48.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.9038350827199793
+[11Dec2024 01:38:48.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.0
+[11Dec2024 01:38:48.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.48205052129605974
+[11Dec2024 01:38:48.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2648391346067456
+[11Dec2024 01:38:49.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.29253649170686913
+[11Dec2024 01:38:49.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.989647866355881
+[11Dec2024 01:38:49.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4333033926091048
+[11Dec2024 01:38:49.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6116631162954036
+[11Dec2024 01:38:49.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7797118616103944
+[11Dec2024 01:38:49.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9422434079774575
+[11Dec2024 01:38:49.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1018228111886401
+[11Dec2024 01:38:49.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2598225814565467
+[11Dec2024 01:38:49.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.857311432014285
+[11Dec2024 01:38:49.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0114177876109807
+[11Dec2024 01:38:50.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.1653210013412263
+[11Dec2024 01:38:50.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.31911551790904014
+[11Dec2024 01:38:50.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.010267017417391
+[11Dec2024 01:38:50.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0101936813180146
+[11Dec2024 01:40:52.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2625238197465478
+[11Dec2024 01:40:52.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.37651090556141753
+[11Dec2024 01:40:52.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.4987457775707753
+[11Dec2024 01:40:53.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6253938755296531
+[11Dec2024 01:40:53.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.7544034027039288
+[11Dec2024 01:40:53.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8846764835695922
+[11Dec2024 01:40:53.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.42844103956031176
+[11Dec2024 01:40:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.555311068264018
+[11Dec2024 01:40:53.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.40441319985689006
+[11Dec2024 01:40:53.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5201412950584654
+[11Dec2024 01:40:53.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.742392840765433
+[11Dec2024 01:40:53.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8561305054047352
+[11Dec2024 01:40:53.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9698564008933772
+[11Dec2024 01:40:53.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0835759989440703
+[11Dec2024 01:40:54.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.48858927138985564
+[11Dec2024 01:40:54.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.36290515388782296
+[11Dec2024 01:40:54.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.576668412941217
+[11Dec2024 01:41:15.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3366334081952118
+[11Dec2024 01:41:15.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5547364414171625
+[11Dec2024 01:41:15.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6092071714588201
+[11Dec2024 01:41:15.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5207263100796808
+[11Dec2024 01:41:15.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6733015922843606
+[11Dec2024 01:41:15.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5873511528336621
+[11Dec2024 01:41:15.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5001486535645654
+[11Dec2024 01:41:15.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.4006939709458948
+[11Dec2024 01:41:15.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.48222986768223564
+[11Dec2024 01:41:15.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.47164666893286267
+[11Dec2024 01:41:15.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3549304963319173
+[11Dec2024 01:41:16.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3452026010984355
+[11Dec2024 01:41:16.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1820234001363588
+[11Dec2024 01:41:17.935] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[11Dec2024 01:41:17.957] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[11Dec2024 01:41:17.958] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[11Dec2024 01:41:18.024] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[11Dec2024 01:41:18.144] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[11Dec2024 01:41:18.264] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[11Dec2024 01:41:18.363] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[11Dec2024 01:41:18.491] [Worker-Main-7/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 01:41:18.493] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_1 is being run through DFU (hash 23d8c1445e06b5e6e926ff80718f4a52660c6754ea2092c44aa883ec0d90a380), this will cause launch time delays
+[11Dec2024 01:41:18.493] [Worker-Main-7/INFO] [ModernFix/]: Instantiating Mojang DFU
+[11Dec2024 01:41:20.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7742154973991546
+[11Dec2024 01:41:20.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8166413801666295
+[11Dec2024 01:41:20.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9023587807305375
+[11Dec2024 01:41:20.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.36043865326428204
+[11Dec2024 01:41:20.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.495865370399315
+[11Dec2024 01:41:20.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.62897119578588
+[11Dec2024 01:41:20.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.7608351582712203
+[11Dec2024 01:41:21.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.8920346246784447
+[11Dec2024 01:41:21.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.022878532482764
+[11Dec2024 01:41:21.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.2400250283901642
+[11Dec2024 01:41:21.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.48554229669230153
+[11Dec2024 01:41:21.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6267246431598323
+[11Dec2024 01:41:21.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5235990842957108
+[11Dec2024 01:41:21.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6795822981650872
+[11Dec2024 01:41:21.547] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[11Dec2024 01:41:21.703] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[11Dec2024 01:41:22.210] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[11Dec2024 01:41:22.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9349158970860572
+[11Dec2024 01:41:22.408] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[11Dec2024 01:41:22.494] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[11Dec2024 01:41:22.674] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:giant_mushroom/red_giant_mushroom_part_0
+[11Dec2024 01:41:22.817] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[11Dec2024 01:41:22.905] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[11Dec2024 01:41:22.991] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[11Dec2024 01:41:23.073] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[11Dec2024 01:41:23.203] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[11Dec2024 01:41:23.556] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[11Dec2024 01:41:33.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:41:33.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:41:41.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5636690895731533
+[11Dec2024 01:41:41.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.35246521299205824
+[11Dec2024 01:41:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1419835813912584
+[11Dec2024 01:41:41.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.903131198493412
+[11Dec2024 01:41:41.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.6010365031989124
+[11Dec2024 01:41:41.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.2260901659387855
+[11Dec2024 01:41:41.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.798350304378573
+[11Dec2024 01:42:01.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/344, l='ServerLevel[world]', x=59.20, y=66.95, z=-557.66] died, message: 'Villager tried to swim in lava'
+[11Dec2024 01:43:59.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2807108686946549
+[11Dec2024 01:43:59.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4150952991764143
+[11Dec2024 01:43:59.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5514480785901696
+[11Dec2024 01:43:59.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6896352800911245
+[11Dec2024 01:43:59.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4252301851655602
+[11Dec2024 01:44:00.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4264678380850455
+[11Dec2024 01:44:00.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5666736857418755
+[11Dec2024 01:44:00.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4257851078538124
+[11Dec2024 01:44:00.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5660570466006902
+[11Dec2024 01:44:00.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7063413121212534
+[11Dec2024 01:44:07.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7065206873755869
+[11Dec2024 01:44:08.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8620604753393764
+[11Dec2024 01:44:08.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.019363586383406
+[11Dec2024 01:44:09.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1633330980209848
+[11Dec2024 01:44:09.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.225584374739583
+[11Dec2024 01:44:09.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7088453581702652
+[11Dec2024 01:44:10.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4476949439224427
+[11Dec2024 01:44:10.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5862232360200323
+[11Dec2024 01:44:10.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.7224493663131852
+[11Dec2024 01:44:10.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8543059494354566
+[11Dec2024 01:44:10.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9824712897534482
+[11Dec2024 01:44:10.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5461992557550275
+[11Dec2024 01:44:10.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6589297463074217
+[11Dec2024 01:44:10.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5316459199900692
+[11Dec2024 01:44:10.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5521974528251121
+[11Dec2024 01:44:10.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.687899874783625
+[11Dec2024 01:44:11.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7755245952696441
+[11Dec2024 01:44:11.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.8456544386854148
+[11Dec2024 01:44:11.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9133152026990956
+[11Dec2024 01:44:11.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.9178971659682702
+[11Dec2024 01:44:12.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.615029692418178
+[11Dec2024 01:44:12.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.743738702971652
+[11Dec2024 01:44:12.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.8950630980461334
+[11Dec2024 01:44:12.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7489374756130474
+[11Dec2024 01:44:12.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.3655018235670013
+[11Dec2024 01:44:12.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.0253909624793778
+[11Dec2024 01:44:12.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.28994674373007
+[11Dec2024 01:44:12.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.38726481606067864
+[11Dec2024 01:44:12.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.4987487800724466
+[11Dec2024 01:44:12.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1653143949541231
+[11Dec2024 01:44:13.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2706703015984999
+[11Dec2024 01:44:13.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8774913130150708
+[11Dec2024 01:44:14.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5723402753376376
+[11Dec2024 01:44:14.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9124924528080101
+[11Dec2024 01:44:14.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.9977921167835575
+[11Dec2024 01:44:32.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1703746830455657
+[11Dec2024 01:45:10.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.30212564136900255
+[11Dec2024 01:45:10.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0144064148435064
+[11Dec2024 01:45:10.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.726654419312581
+[11Dec2024 01:45:10.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.438884889740166
+[11Dec2024 01:45:10.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.45365276366900154
+[11Dec2024 01:45:10.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5712989455434894
+[11Dec2024 01:45:10.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5024747812548483
+[11Dec2024 01:45:10.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.622719553282147
+[11Dec2024 01:45:20.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4212808159470735
+[11Dec2024 01:45:20.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.4838779617381104
+[11Dec2024 01:45:20.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.6290990895087214
+[11Dec2024 01:45:20.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.782815149198567
+[11Dec2024 01:45:20.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 4.939136894058239
+[11Dec2024 01:45:22.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5379742602819988
+[11Dec2024 01:45:22.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.547501198904115
+[11Dec2024 01:45:22.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.5563498864648864
+[11Dec2024 01:45:22.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.564835655405659
+[11Dec2024 01:45:23.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8809880142719919
+[11Dec2024 01:46:33.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:46:33.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

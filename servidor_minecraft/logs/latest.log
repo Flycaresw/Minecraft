@@ -2411,3 +2411,184 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 	... 9 more
 [11Dec2024 03:27:55.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
 [11Dec2024 03:27:55.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:29:42.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e64195f
+[11Dec2024 03:29:42.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:48815] logged in with entity id 63472 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:29:42.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:29:42.621] [Netty Epoll Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:29:42.621] [Netty Epoll Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:29:42.763] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:48815
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:29:42.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:29:42.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:32:03.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[11Dec2024 03:32:04.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect clearFlycare_sw<--[HERE]
+[11Dec2024 03:32:30.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[11Dec2024 03:32:39.837] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fd38e6c
+[11Dec2024 03:32:39.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:53583] logged in with entity id 64006 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:32:39.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:32:39.871] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:32:39.871] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:32:40.204] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:53583
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:32:40.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:32:40.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:33:00.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command or insufficient permissions
+[11Dec2024 03:33:04.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command or insufficient permissions
+[11Dec2024 03:33:15.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[11Dec2024 03:33:15.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[11Dec2024 03:33:15.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|blizzardFrequency|blizzardStrength|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[11Dec2024 03:33:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[11Dec2024 03:33:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
+[11Dec2024 03:33:15.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[11Dec2024 03:33:15.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kiwi debugLevelRules
+[11Dec2024 03:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placebo serialize_loot_table <loot_table>
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /modernfix upgradeStructures
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mfsrc
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sbp (list|give|removeNonPlayer)
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sophisticatedbackpacks -> sbp
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /closeguiscreen [<target_players>]
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /openguiscreen <screen_identifier> [<target_players>]
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fmvariable (get|set)
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrestoreinventory [<player>]
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbshowlastgrave [<player>]
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbknowledge [<player>]
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbacceptteleport [<target>]
+[11Dec2024 03:33:15.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbsiege [start|stop]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrevivefamiliar [<player>]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbrequestteleport [<target>]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbbind [show|set|teleport]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /lootr [barrel|chest|trapped_chest|shulker|clear|cart|custom|id|refresh|decay|openers]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /carryon (debug|clear)
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[11Dec2024 03:33:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /invsorter [bladd|blremove|showlast|list]
+[11Dec2024 03:35:21.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[11Dec2024 03:37:04.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Invalid name or UUID
+[11Dec2024 03:37:04.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ge entity <t> {ActiveEffects:[]}<--[HERE]
+[11Dec2024 03:37:06.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[11Dec2024 03:37:19.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[11Dec2024 03:37:29.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[11Dec2024 03:37:40.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 03:38:36.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Marked chunk [0, 0] in minecraft:overworld to be force loaded

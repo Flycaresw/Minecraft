@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-11 15:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-09 15:43:36 +0000"
@@ -446,6 +452,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2024-12-11 15:54:08 +0000"
     },
     "done": true
   },
@@ -979,6 +991,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-11 15:47:59 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-09 16:04:55 +0000"
@@ -1251,6 +1269,7 @@
       "minecraft:sparse_jungle": "2024-12-09 15:37:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-09 15:30:56 +0000",
       "minecraft:river": "2024-12-09 15:37:09 +0000",
+      "minecraft:stony_shore": "2024-12-11 15:46:05 +0000",
       "minecraft:forest": "2024-12-02 03:54:29 +0000",
       "minecraft:jungle": "2024-12-09 15:39:35 +0000",
       "minecraft:ocean": "2024-12-11 02:58:23 +0000",
@@ -1351,6 +1370,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-11 15:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-09 15:34:01 +0000"
@@ -1446,6 +1471,12 @@
       "minecraft:crimson_forest": "2024-12-11 02:40:26 +0000"
     },
     "done": false
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 15:55:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1754,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-11 15:56:51 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-11 03:07:52 +0000"
@@ -1969,6 +2006,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-09 15:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-11 15:56:51 +0000"
     },
     "done": true
   },

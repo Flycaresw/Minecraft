@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2024-12-09 17:43:13 +0000"
@@ -486,6 +492,12 @@
       "minecraft:zombie": "2024-12-09 16:11:30 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-11 03:08:58 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
@@ -715,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 16:23:24 +0000"
@@ -853,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 03:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 16:43:07 +0000"
@@ -874,6 +898,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
     },
     "done": true
   },
@@ -1293,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-09 15:39:00 +0000"
@@ -1453,6 +1489,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-10 16:12:44 +0000",
       "cooked_mutton": "2024-12-10 16:18:13 +0000",
+      "cooked_beef": "2024-12-11 03:14:01 +0000",
       "baked_potato": "2024-12-09 15:50:56 +0000",
       "beef": "2024-12-11 02:44:21 +0000",
       "tropical_fish": "2024-12-09 15:53:29 +0000",
@@ -1507,6 +1544,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-10 16:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
     },
     "done": true
   },
@@ -1900,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-09 16:37:41 +0000"
@@ -1948,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-09 15:39:13 +0000"
@@ -1989,6 +2044,12 @@
       "has_white_wool": "2024-12-10 16:43:55 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-11 03:11:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -2326,6 +2387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:13 +0000"
@@ -2371,6 +2438,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:09:40 +0000"
     },
     "done": true
   },

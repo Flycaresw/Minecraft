@@ -2167,3 +2167,247 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 03:03:40.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has made the advancement [What a Deal!]
 [11Dec2024 03:04:27.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [A Throwaway Joke]
 [11Dec2024 03:06:58.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <back2027> xaero-waypoint:Shared Location:S:-1172:70:-380:3:false:0:Internal-overworld-waypoints
+[11Dec2024 03:09:58.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13249ms or 264 ticks behind
+[11Dec2024 03:09:59.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 8.379179421708386,1.252203340253729,5.592169353357292
+[11Dec2024 03:11:45.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Who is Cutting Onions?]
+[11Dec2024 03:12:16.988] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:12:16.988] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:12:21.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 1.914027156834777,-0.504799122994072,10.07577616517176
+[11Dec2024 03:12:24.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11Dec2024 03:12:55.882] [Worker-Main-79/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureManager/]: Couldn't load structure terralith:spire: java.lang.OutOfMemoryError: Java heap space
+[11Dec2024 03:12:55.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 moved too quickly! 1.2886742666520377,-1.604424101326714,10.295462327260225
+[11Dec2024 03:12:56.646] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:12:56.646] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:12:58.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19545ms or 390 ticks behind
+[11Dec2024 03:15:14.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Penteconter]
+[11Dec2024 03:26:31.812] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:39871
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:26:31.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:26:31.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:26:40.589] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12fb7bb2
+[11Dec2024 03:26:40.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:52435] logged in with entity id 62489 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:26:40.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:26:40.678] [Netty Epoll Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:26:40.683] [Netty Epoll Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:26:40.905] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:52435
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:26:40.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:26:40.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:26:49.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@554a70a8
+[11Dec2024 03:26:49.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:40829] logged in with entity id 62544 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:26:49.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:26:49.996] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:26:49.996] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:26:50.224] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:40829
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:26:50.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:26:50.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:27:05.389] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a282683
+[11Dec2024 03:27:05.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:36681] logged in with entity id 62642 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:27:05.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:27:05.425] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:05.425] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:05.732] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:36681
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:27:05.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:27:05.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:27:06.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: back2027 lost connection: Disconnected
+[11Dec2024 03:27:06.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 left the game
+[11Dec2024 03:27:14.434] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e999bf9
+[11Dec2024 03:27:14.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: back2027[/127.89.101.46:51895] logged in with entity id 62699 at (-683.5868951023258, -61.0, -304.5245951934159)
+[11Dec2024 03:27:14.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 joined the game
+[11Dec2024 03:27:39.638] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ac2ab97
+[11Dec2024 03:27:39.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:38935] logged in with entity id 62989 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:27:39.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:27:39.763] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:39.767] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:40.360] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:38935
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:27:40.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:27:40.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:27:46.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19b824cd
+[11Dec2024 03:27:46.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:57047] logged in with entity id 63057 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:27:46.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:27:47.029] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:47.031] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:47.233] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:57047
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:27:47.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:27:47.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game
+[11Dec2024 03:27:54.939] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@379e2197
+[11Dec2024 03:27:54.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/127.178.248.203:58177] logged in with entity id 63128 at (-1268.3609543278867, 68.0, -299.4567707686857)
+[11Dec2024 03:27:54.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw joined the game
+[11Dec2024 03:27:55.004] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@225ea7e4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:55.005] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@65968895 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 03:27:55.286] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.178.248.203:58177
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:502) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.player.Player.m_5647_()" because "p_36169_" is null
+	at net.minecraft.world.entity.player.Player.m_7099_(Player.java:853) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7099_(ServerPlayer.java:670) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.sweenus.simplyswords.util.HelperMethods.checkFriendlyFire(HelperMethods.java:48) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.sweenus.simplyswords.effect.WildfireEffect.m_6742_(WildfireEffect.java:35) ~[simplyswords-forge-1.40-1.18.2.jar%2388!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:162) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:138) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?]
+	... 9 more
+[11Dec2024 03:27:55.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Internal server error
+[11Dec2024 03:27:55.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw left the game

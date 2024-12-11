@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-10 17:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-09 17:48:11 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 16:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-10 17:49:21 +0000"
     },
     "done": true
   },
@@ -519,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-10 17:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-09 16:18:15 +0000"
@@ -862,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-10 17:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-09 16:22:22 +0000"
@@ -891,6 +915,7 @@
       "minecraft:pillager": "2024-12-09 16:26:33 +0000",
       "minecraft:skeleton": "2024-12-09 17:11:51 +0000",
       "minecraft:vindicator": "2024-12-09 16:25:31 +0000",
+      "minecraft:spider": "2024-12-10 17:49:01 +0000",
       "minecraft:creeper": "2024-12-10 17:41:42 +0000",
       "minecraft:witch": "2024-12-10 17:41:07 +0000",
       "minecraft:silverfish": "2024-12-09 17:14:08 +0000",
@@ -1186,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-10 17:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 16:43:55 +0000"
@@ -1459,6 +1490,12 @@
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-10 16:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-10 17:49:21 +0000"
     },
     "done": true
   },

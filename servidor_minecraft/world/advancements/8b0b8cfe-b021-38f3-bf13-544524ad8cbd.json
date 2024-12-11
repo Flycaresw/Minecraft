@@ -802,6 +802,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-11 02:57:29 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2024-12-10 18:01:58 +0000"
@@ -1110,6 +1116,7 @@
       "minecraft:river": "2024-12-09 15:37:09 +0000",
       "minecraft:forest": "2024-12-02 03:54:29 +0000",
       "minecraft:jungle": "2024-12-09 15:39:35 +0000",
+      "minecraft:ocean": "2024-12-11 02:58:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-10 17:57:18 +0000",
       "minecraft:savanna": "2024-12-09 15:30:40 +0000",
       "minecraft:plains": "2024-12-02 03:56:34 +0000"
@@ -2014,6 +2021,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-11 03:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-09 15:36:53 +0000"
@@ -2239,6 +2252,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-09 15:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-11 03:04:27 +0000"
     },
     "done": true
   },

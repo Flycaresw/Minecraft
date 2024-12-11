@@ -388,3 +388,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 16:35:57.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.015475656920671
 [11Dec2024 16:35:57.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.9844007076529238
 [11Dec2024 16:36:12.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Maybe Don't Touch it]
+[11Dec2024 16:40:09.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 hit the ground too hard whilst trying to escape Piglin Brute
+[11Dec2024 16:40:09.643] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 16:40:43.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported 2 entities to Flycare_sw]
+[11Dec2024 16:45:53.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 has completed the challenge [Centennial]
+[11Dec2024 16:47:46.138] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:allay
+[11Dec2024 16:48:09.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [When in Rome]
+[11Dec2024 16:50:32.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Spectator Mode]
+[11Dec2024 16:51:00.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported 2 entities to back2027]
+[11Dec2024 16:51:04.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 16:51:22.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to -684.500000, 64.500000, -270.500000]
+[11Dec2024 16:51:36.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported 2 entities to Flycare_sw]
+[11Dec2024 16:54:01.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Spectator Mode]
+[11Dec2024 16:54:02.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]
+[11Dec2024 16:54:04.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Creative Mode]
+[11Dec2024 16:54:38.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: back2027 was slain by Vindicator
+[11Dec2024 16:54:38.021] [Server thread/INFO] [tombstone/]: The player back2027 has successfully been saved
+[11Dec2024 16:54:38.028] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Dec2024 16:54:38.031] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[11Dec2024 16:54:38.031] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[11Dec2024 16:54:38.032] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[11Dec2024 16:54:38.032] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[11Dec2024 16:55:20.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Set own game mode to Survival Mode]

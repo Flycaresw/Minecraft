@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-11 16:45:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-10 16:20:58 +0000"
@@ -1262,6 +1268,12 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-09 17:13:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 16:45:53 +0000"
     },
     "done": true
   },

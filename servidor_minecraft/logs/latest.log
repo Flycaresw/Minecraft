@@ -362,3 +362,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 16:15:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 40.500000, 71.500000, -518.500000]
 [11Dec2024 16:15:44.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 20.500000, 70.500000, -1493.500000]
 [11Dec2024 16:16:30.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 40.500000, 71.500000, -518.500000]
+[11Dec2024 16:17:40.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 20.500000, 70.500000, -1493.500000]
+[11Dec2024 16:18:56.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 40.500000, 71.500000, -518.500000]
+[11Dec2024 16:19:41.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to -406.500000, 64.500000, -1190.500000]
+[11Dec2024 16:19:52.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to 40.500000, 71.500000, -518.500000]
+[11Dec2024 16:29:42.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported 2 entities to back2027]
+[11Dec2024 16:31:24.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw was killed by magic whilst trying to escape Pillager
+[11Dec2024 16:31:24.325] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[11Dec2024 16:31:25.856] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@377f9131 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 16:31:25.857] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@11e4650c (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 16:34:11.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Flycare_sw: Teleported Flycare_sw to -406.500000, 64.500000, -1190.500000]
+[11Dec2024 16:35:56.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5607096136360497
+[11Dec2024 16:35:57.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6119323862210422
+[11Dec2024 16:35:57.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.7113841982575195
+[11Dec2024 16:35:57.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.8366424077212287
+[11Dec2024 16:35:57.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.123123147209185
+[11Dec2024 16:35:57.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.269578492424955
+[11Dec2024 16:35:57.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.419987355343494
+[11Dec2024 16:35:57.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1365807604229303
+[11Dec2024 16:35:57.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.290237006153518
+[11Dec2024 16:35:57.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 3.440502822306655
+[11Dec2024 16:35:57.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1137923927053066
+[11Dec2024 16:35:57.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.204051465404575
+[11Dec2024 16:35:57.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0223655382282573
+[11Dec2024 16:35:57.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.015475656920671
+[11Dec2024 16:35:57.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.9844007076529238
+[11Dec2024 16:36:12.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Maybe Don't Touch it]

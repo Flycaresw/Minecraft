@@ -7185,3 +7185,85 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Dec2024 02:15:06.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flycare_sw has made the advancement [Enchanter]
 [11Dec2024 02:16:33.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 02:16:33.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:20:51.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[11Dec2024 02:20:51.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[11Dec2024 02:20:51.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[11Dec2024 02:20:51.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[11Dec2024 02:20:51.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[11Dec2024 02:20:51.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[11Dec2024 02:20:51.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[11Dec2024 02:20:51.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[11Dec2024 02:20:51.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[11Dec2024 02:20:51.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[11Dec2024 02:20:51.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[11Dec2024 02:20:58.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[11Dec2024 02:20:58.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[11Dec2024 02:20:58.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[11Dec2024 02:21:33.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 02:21:33.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:22:33.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[11Dec2024 02:22:34.066] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[11Dec2024 02:22:34.109] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:giant_mushroom/twin_giant_mushroom_part_0
+[11Dec2024 02:22:34.160] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[11Dec2024 02:22:34.480] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[11Dec2024 02:22:34.632] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_3 is being run through DFU (hash 61bd3fa36676afadc61672d277be6a96fd06210b5b59609ac16ce27939767944), this will cause launch time delays
+[11Dec2024 02:22:34.989] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_5 is being run through DFU (hash 6ee211594b3a831ee96965d4919ff95a557e0b5dda271824e4178a9776ae1486), this will cause launch time delays
+[11Dec2024 02:22:35.071] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_1 is being run through DFU (hash bda0c61aac85b55a368c06cbe04262c38a3a7cd7c5a3f6b29a0dc512aad02b50), this will cause launch time delays
+[11Dec2024 02:22:35.087] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_3 is being run through DFU (hash c4df4c8b75851546faafd9e871ef9182979add7aa26626b4235ad0440dfa32cd), this will cause launch time delays
+[11Dec2024 02:22:35.093] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_1 is being run through DFU (hash 36b3ae52c441a7c03c20abfbe118936de765401fd077c90c9a55d793031b5305), this will cause launch time delays
+[11Dec2024 02:22:35.119] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0 is being run through DFU (hash e5a77378741014cf62057df1b2a7fa020e7550ea9910b41e40b041ec4552e394), this will cause launch time delays
+[11Dec2024 02:22:35.836] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_3 is being run through DFU (hash e231d65f21c2c4083f150a4540361561719a313644a6e40dec2534d4cab211fd), this will cause launch time delays
+[11Dec2024 02:22:35.902] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0 is being run through DFU (hash e9e3fe4f148a240247604cdb1e64ee2288923370019f8cbd24ba15ca6ab8f66c), this will cause launch time delays
+[11Dec2024 02:22:35.971] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0 is being run through DFU (hash 1a0e7bf67ae025cc0da65489a774bc7d739f23dad24e00248b0761db4c13f3d1), this will cause launch time delays
+[11Dec2024 02:22:36.013] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_4 is being run through DFU (hash 4c1457a733de4a68e5e025fc0ed45b738ec0427790157740eeec733b1bc97dfa), this will cause launch time delays
+[11Dec2024 02:22:36.070] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_2 is being run through DFU (hash 5b1c95de287ef76eb34d5505a76b48cbfcab3732b1e1619d0b5eb723c1eda345), this will cause launch time delays
+[11Dec2024 02:22:36.091] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_0 is being run through DFU (hash 65d3df06521a8181bcfbd3d2cf2caef03579497c71ebe74514d2e4db341c73ab), this will cause launch time delays
+[11Dec2024 02:22:36.118] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_1 is being run through DFU (hash 0017af21e5d6bdb7718270d32df040655d0a0de20a5e77e510f735fe06d0504e), this will cause launch time delays
+[11Dec2024 02:22:36.350] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_0 is being run through DFU (hash 21cc51221664701e90723db2f60316d181956e12c7fad632307536c1ada766c6), this will cause launch time delays
+[11Dec2024 02:22:36.359] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_6 is being run through DFU (hash 1f8423fff6fbd5f97aeb854d435dc85a8fa3a6672fe7220b1201da24855446d2), this will cause launch time delays
+[11Dec2024 02:22:36.361] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_5 is being run through DFU (hash 44da98694049fd2a458e51ade57823fb78fc323dda991f044f8f249d28d0f725), this will cause launch time delays
+[11Dec2024 02:22:36.363] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_2 is being run through DFU (hash 8ad5e4d2f90e49300edf704835d0636a73c5be32868113f6c02945cfbafb0512), this will cause launch time delays
+[11Dec2024 02:22:36.365] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_4 is being run through DFU (hash 756d96347f0f8d2572a591103c08afb598ea6f392b227b684f3b06b83b6edba7), this will cause launch time delays
+[11Dec2024 02:22:36.438] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_0 is being run through DFU (hash eb685b7207df039591af05dc26f7929226dcef6fd7397aab65d3178207259070), this will cause launch time delays
+[11Dec2024 02:22:36.452] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_2 is being run through DFU (hash 0831a8d92d7eae71c2d775c9a0524b041aa6f66c46b57ea80e241afdc8d3e61c), this will cause launch time delays
+[11Dec2024 02:22:38.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5430ms or 108 ticks behind
+[11Dec2024 02:23:05.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6165412363625364
+[11Dec2024 02:23:05.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.2816735796507146
+[11Dec2024 02:23:05.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9615527769115033
+[11Dec2024 02:23:05.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6470882312260073
+[11Dec2024 02:23:05.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.3333655310773338
+[11Dec2024 02:23:06.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.35833958705734403
+[11Dec2024 02:23:06.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.1252505123977699
+[11Dec2024 02:23:06.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6498669767120191
+[11Dec2024 02:23:06.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.5219944812567974
+[11Dec2024 02:23:07.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.55209766791927
+[11Dec2024 02:23:07.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.6894063881879902
+[11Dec2024 02:23:07.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 2.835218987250073
+[11Dec2024 02:23:07.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9855818423054643
+[11Dec2024 02:23:08.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5346306346050369
+[11Dec2024 02:23:08.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.34801391728319686
+[11Dec2024 02:23:08.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.292871013622289
+[11Dec2024 02:23:08.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.7984452074551882
+[11Dec2024 02:23:08.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7677228861268759
+[11Dec2024 02:23:08.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6506845768874427
+[11Dec2024 02:23:08.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5894444165792265
+[11Dec2024 02:23:10.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6263169332257803
+[11Dec2024 02:23:10.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.593895151399578
+[11Dec2024 02:23:10.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.7188568903557817
+[11Dec2024 02:23:11.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3515628475527137
+[11Dec2024 02:23:11.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4517473879764111
+[11Dec2024 02:23:11.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5451174567640464
+[11Dec2024 02:23:11.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.6579241643000842
+[11Dec2024 02:23:11.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.8027054064066306
+[11Dec2024 02:23:11.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.9539737435761708
+[11Dec2024 02:23:11.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.0
+[11Dec2024 02:23:11.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.5322128279992739
+[11Dec2024 02:23:11.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.27358072700076264
+[11Dec2024 02:23:11.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.7782023344709614
+[11Dec2024 02:23:12.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.3011592198354265
+[11Dec2024 02:23:13.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.4460103580836403
+[11Dec2024 02:23:13.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.3905212748834401
+[11Dec2024 02:23:13.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 0.36432574442619625
+[11Dec2024 02:23:13.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stinger (vehicle of back2027) moved wrongly! 1.357266605258701
+[11Dec2024 02:26:38.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 02:26:38.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

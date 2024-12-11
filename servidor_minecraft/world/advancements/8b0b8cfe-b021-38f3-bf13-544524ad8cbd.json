@@ -607,6 +607,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-11 17:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-10 16:57:19 +0000"
@@ -706,6 +712,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-10 16:35:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 17:27:59 +0000"
     },
     "done": true
   },
@@ -1527,6 +1539,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 17:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:01:58 +0000"
@@ -1544,6 +1562,12 @@
       "minecraft:crimson_forest": "2024-12-11 02:40:26 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-11 17:35:03 +0000"
+    },
+    "done": true
   },
   "lootr:100loot": {
     "criteria": {
@@ -1632,6 +1656,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-09 17:18:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 17:28:02 +0000"
     },
     "done": true
   },
@@ -1861,6 +1891,18 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-11 15:56:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 17:30:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 17:30:27 +0000"
     },
     "done": true
   },
@@ -2234,6 +2276,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_recycling": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 17:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-09 15:33:09 +0000"
@@ -2507,6 +2555,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-09 15:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-11 17:35:03 +0000"
     },
     "done": true
   },
@@ -3059,6 +3113,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-11 04:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-11 17:35:03 +0000"
     },
     "done": true
   },
